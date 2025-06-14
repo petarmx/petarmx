@@ -20,9 +20,8 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ## 📂 Portfolio Projects
 
-### 1. 🔍 Vulnerability Assessment Lab
-- **Tools Used:** Nmap, Nessus, OpenVAS  
-- **Summary:** Scanned a simulated network environment to identify and assess security vulnerabilities. Generated reports and proposed remediation steps.
+### 1. 🔍 Scope, goals, and risk assessment report (course project)
+- **Summary:** The internal audit found that while basic security controls like firewalls and antivirus software are in place, Botium Toys lacks key protections such as data encryption, a disaster recovery plan, and full compliance with GDPR and PCI DSS.
 - **Link:** [View Project Folder](./vulnerability-assessment)
 
 ---
