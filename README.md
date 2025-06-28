@@ -38,16 +38,14 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ---
 
-### 4. 🗄️ Applying Filters in SQL
-- **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
-- **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
-- **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
+### 4. 🗄️ SQL Security Investigation Project
+- **Summary:** In this project, I used SQL queries to analyze employee and login activity data, helping to identify potential security risks such as failed logins after hours, suspicious access from foreign locations, and department-specific threats. By applying SQL filters with AND, OR, and NOT, I was able to quickly uncover patterns that support proactive monitoring and strengthen our organization’s cybersecurity posture.
+- **[View Project Folder](https://github.com/petarmx/SQL-filters/blob/590a3144178a03fc23dac75afa9ccb5259fb2ced/README.md)**
 
 ---
 
 ### 5. 💻 Linux Commands - Manage Files Permissions
-- **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
-- **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
+- **Summary:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
 - **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
   
 ---
