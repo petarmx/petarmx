@@ -70,11 +70,7 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 Feel free to reach out or connect!
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-
----
-
-> 🔒 _“Cybersecurity is much more than a matter of IT.” – Stephane Nappo_
+- **Email:** pmicevski@gmail.com 
+- **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/pmicevski/)  
+- **GitHub:** [github.com/yourusername](https://github.com/petarmx)
 
