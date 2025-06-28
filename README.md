@@ -34,7 +34,7 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ### 3. 🔓 Database Server Vulnerability Assessment
 - **Summary:** The company’s remote database server was left publicly accessible since launch, creating a major security risk. This vulnerability exposed sensitive business and customer data to potential external attackers and insiders. Immediate actions—such as restricting server access, enforcing multi-factor authentication, and implementing stricter access controls—are recommended to mitigate these risks. Ongoing monitoring, regular audits, and employee training will further strengthen the company’s security posture and protect critical business operations.
-- **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
+- **[View Project Folder](https://github.com/petarmx/DBS-Vuln-Assessment/blob/1e5081fd2becf61076aea950a9b275389ecf5f3a/README.md)**
 
 ---
 
