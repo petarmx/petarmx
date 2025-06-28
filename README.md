@@ -71,6 +71,6 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 Feel free to reach out or connect!
 
 - **Email:** pmicevski@gmail.com 
-- **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/pmicevski/)  
-- **GitHub:** [github.com/yourusername](https://github.com/petarmx)
+- **LinkedIn:** [linkedin.com/in/pmicevski](https://www.linkedin.com/in/pmicevski/)  
+- **GitHub:** [github.com/petarmx](https://github.com/petarmx)
 
