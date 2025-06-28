@@ -22,7 +22,7 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ### 1. 🔍 Scope, goals, and risk assessment report (course project)
 - **Summary:** The internal audit found that while basic security controls like firewalls and antivirus software are in place, Botium Toys lacks key protections such as data encryption, a disaster recovery plan, and full compliance with GDPR and PCI DSS.
-- **[View Project Folder](https://github.com/petarmx/Botium-Toys---Scope-goals-and-risk-assessment-report/blob/a08d393aa87a415ae55f68fbdfacd7997656dda4/README.md)**
+- **[View Project Folder](https://github.com/petarmx/Security-Audit/blob/fe991341b8c1d6b722473f5c197892139b4af808/README.md)**
 
 ---
 
