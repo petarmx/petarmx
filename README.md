@@ -46,7 +46,7 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ### 5. 💻 Linux File Permission Hardening Project
 - **Summary:** In this project, I audited and updated Linux file and directory permissions for a research team to enforce the principle of least privilege. By removing unnecessary world and group access, securing hidden files, and adjusting directory permissions, I ensured that only authorized users retained the access needed for collaboration while reducing the risk of unauthorized data exposure.
-- **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
+- **[View Project Folder](https://github.com/petarmx/Linux-Comamands/blob/579d8c2d703ec606c4958f17c30a35d14587f533/README.md)**
   
 ---
 
