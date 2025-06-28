@@ -26,27 +26,27 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ---
 
-### 2. 🧪 DDoS Incident Response Analysis Using NIST CSF
+### 2. 🛡️ DDoS Incident Response Analysis Using NIST CSF
 - **Summary:** This analysis documents a Distributed Denial of Service (DDoS) attack against a multimedia company providing web design and marketing services. The incident caused a **2-hour network outage** due to an ICMP flood exploiting an unconfigured firewall. Following NIST Cybersecurity Framework (CSF) guidelines, this report outlines remediation strategies and security
 - **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
 
 ---
 
-### 3. 🐍 Vulnerability Assessment Report
+### 3. 🔓 Vulnerability Assessment Report
 - **Project:** A Python script to scan open ports and flag weak/default credentials
 - **Features:** Command-line interface, report generation, modular design
 - **Link:** [View on GitHub](./python-security-tool)
 
 ---
 
-### 4. 📚 Applying filters in SQL
+### 4. 🗄️ Applying filters in SQL
 - **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
 - **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
 - **Sample Post:** [How to Harden an Ubuntu Server](./blog-posts/hardening-ubuntu.md)
 
 ---
 
-### 5. 📚 Linux Commands - manage file permissions
+### 5. 💻 Linux Commands - manage file permissions
 - **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
 - **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
 - **Sample Post:** [How to Harden an Ubuntu Server](./blog-posts/hardening-ubuntu.md)
