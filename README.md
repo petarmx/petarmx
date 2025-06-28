@@ -32,24 +32,24 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ---
 
-### 3. 🔓 Vulnerability Assessment Report
-- **Project:** A Python script to scan open ports and flag weak/default credentials
-- **Features:** Command-line interface, report generation, modular design
-- **Link:** [View on GitHub](./python-security-tool)
+### 3. 🔓 Database Server Vulnerability Assessment
+- **Summary:** The company’s remote database server was left publicly accessible since launch, creating a major security risk. This vulnerability exposed sensitive business and customer data to potential external attackers and insiders. Immediate actions—such as restricting server access, enforcing multi-factor authentication, and implementing stricter access controls—are recommended to mitigate these risks. Ongoing monitoring, regular audits, and employee training will further strengthen the company’s security posture and protect critical business operations.
+- **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
 
 ---
 
 ### 4. 🗄️ Applying Filters in SQL
 - **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
 - **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
-- **Sample Post:** [How to Harden an Ubuntu Server](./blog-posts/hardening-ubuntu.md)
+- **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
 
 ---
 
 ### 5. 💻 Linux Commands - Manage Files Permissions
 - **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
 - **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
-- **Sample Post:** [How to Harden an Ubuntu Server](./blog-posts/hardening-ubuntu.md)
+- **[View Project Folder](https://github.com/petarmx/NIST-IR/blob/398f777ad2b5a47efeef9effeb53da3cab74fc37/README.md)**
+  
 ---
 
 ## 📜 Certifications & Learning
