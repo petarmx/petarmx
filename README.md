@@ -39,14 +39,14 @@ I am an aspiring cybersecurity professional with a strong interest in network se
 
 ---
 
-### 4. 🗄️ Applying filters in SQL
+### 4. 🗄️ Applying Filters in SQL
 - **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
 - **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
 - **Sample Post:** [How to Harden an Ubuntu Server](./blog-posts/hardening-ubuntu.md)
 
 ---
 
-### 5. 💻 Linux Commands - manage file permissions
+### 5. 💻 Linux Commands - Manage Files Permissions
 - **Topics:** Hardening Linux, Password Cracking Basics, Introduction to OSINT
 - **Platform:** [My Cybersecurity Blog](https://yourblog.example.com)
 - **Sample Post:** [How to Harden an Ubuntu Server](./blog-posts/hardening-ubuntu.md)
